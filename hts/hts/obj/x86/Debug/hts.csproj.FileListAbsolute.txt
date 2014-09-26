@@ -1,0 +1,4 @@
+G:\Laboratory\Hack this Site\hts\hts\hts\bin\Debug\hts.exe
+G:\Laboratory\Hack this Site\hts\hts\hts\bin\Debug\hts.pdb
+G:\Laboratory\Hack this Site\hts\hts\hts\obj\x86\Debug\hts.exe
+G:\Laboratory\Hack this Site\hts\hts\hts\obj\x86\Debug\hts.pdb
