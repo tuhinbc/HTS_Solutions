@@ -1,0 +1,247 @@
+ttps://www.hackthissite.org/?logout
+tu=document.images;
+document.getElementById(window.globalRunId + "-output");
+
+document.body.appendChild(can);
+document.getElementById('love');
+document.body.appendChild(can);
+
+var context = document.getElementById('love').getContext('2d');
+
+
+
+var img=new Image();
+img.src="png";
+
+var can=document.createElement('canvas');
+can.id="love";
+
+
+var contex=can.getContext('2d');
+
+context.drawImage(img, 0, 0);
+
+
+
+var im=new Image();
+im.src="png";
+var cc=document.createElement('canvas');
+cc.id="tuhin";
+cc.height=30;
+cc.width=100;
+var cont=cc.getContext('2d');
+cont.drawImage(im,0,0);
+document.body.appendChild(cc);
+
+element = document.getElementById("tuhin");
+c = element.getContext("2d");
+width = element.width;
+height = element.height;
+imageData= c.createImageData(width, height);
+
+
+var t,sum=0;
+for(t=0;t<12000;t++)
+sum+=imageData.data[t];
+
+
+
+
+
+
+
+
+
+
+
+
+var im=new Image();
+im.src="donate.png";
+var cc=document.createElement('canvas');
+cc.id="tuhin";
+cc.height=52;
+cc.width=150;
+var cont=cc.getContext('2d');
+cont.drawImage(im,0,0);
+//cont.fillText("tuhin",0,0);
+//cont.fillRect(0,0,50,50);
+document.body.appendChild(cc);
+
+
+
+
+element = document.getElementById("tuhin");
+kk = element.getContext("2d");
+width = element.width;
+height = element.height;
+
+
+imageData= kk.getImageData(0,0,width,height);
+
+imageData= c.createImageData(width, height);
+
+
+
+
+var t,sum=0;
+for(t=0;t<12000;t++)
+sum+=imageData.data[t];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var cc=document.createElement('canvas');
+cc.id="tuhin";
+cc.height=52;
+cc.width=150;
+var cont=cc.getContext('2d');
+//cont.drawImage(im,0,0);
+cont.fillText("tuhin",5,5);
+//cont.fillRect(0,0,50,50);
+data=cont.getImageData(0,0,50,50);
+var i=0;
+for(;i<5000;i++)
+data.data[i]=data.data[i];
+cont.putImageData(data,0,0);
+document.body.appendChild(cc);
+
+
+
+var cc=document.createElement('canvas');
+cc.id="tuhin";
+cc.height=52;
+cc.width=150;
+var cont=cc.getContext('2d');
+//cont.drawImage(im,0,0);
+cont.fillText("tuhin",5,5);
+//cont.fillRect(0,0,50,50);
+data=cont.getImageData(0,0,50,50);
+var i=0;
+for(;i<5000;i++)
+data.data[i]=data.data[i];
+cont.putImageData(data,0,0);
+document.body.appendChild(cc);
+
+
+
+
+
+element = document.getElementById("cancan");
+c = element.getContext("2d");
+width = element.width;
+height = element.height;
+imageData= c.createImageData(width, height);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var im=new Image();
+im.src="donate.png";
+var cc=document.createElement('canvas');
+cc.id="tuhin";
+cc.height=52;
+cc.width=150;
+var cont=cc.getContext('2d');
+cont.drawImage(im,0,0);
+//cont.fillText("tuhin",0,0);
+//cont.fillRect(0,0,50,50);
+document.body.appendChild(cc);
+
+
+
+
+
+var im=new Image();
+im.src="png";
+var cc=document.createElement('canvas');
+cc.id="tuhin";
+cc.height=30;
+cc.width=100;
+var cont=cc.getContext('2d');
+cont.drawImage(im,0,0);
+document.body.appendChild(cc);
+
+
+element = document.getElementById("tuhin");
+kk = element.getContext("2d");
+width = element.width;
+height = element.height;
+
+imageData= kk.getImageData(0,0,width,height);
+
+var ar=new Array();
+var t=0;
+for(;t<12000;t+=4)
+{
+if(imageData.data[t]>0) {ar.push((t/4)+1);}
+}
+
+var len=ar.length;
+
+for(t=len-1;t>0;t--){
+ar[t]=ar[t]-ar[t-1];
+}
+
+
+
+var st="";
+var vv=0;
+var out="";
+var sar=new Array(".- ","-... ","-.-. ","-.. ",". ","..-. ","--. ",".... ",".. ",".--- ","-.- ",".-.. ","-- ","-. ","--- ",".--. ","--.- ",".-. ","... ","- ","..- ","...- ",".-- ","-..-","-.-- ","--.. ","|",".--- ","..--- ","...-- ","....- ","..... ","-.... ","--... ","---.. ","----. ","----- ");
+for(t=0;t<len;t++)
+{
+	if(ar[t]==32){
+		st+=String.fromCharCode(ar[t]);
+		for(vv=0;vv<37;vv++)
+		{
+			if(sar[vv]==st)
+			{
+				out+=String.fromCharCode(vv+65);
+				st="";
+				break;
+			}
+		}
+	}
+	else st+=String.fromCharCode(ar[t]);
+}
+
+
+[20:55:19.743] ".---- ----- ...- -. -... ..-. .-. -.... .-- .-- "
+
+var opt = document.createElement("option");
+        
+document.getElementsByName("Semester")[0].options.add(opt);
+opt.text = 'summer 13';
+opt.value = '132';
+
+
+document.getElementById("STUDENT_ID").value='101-15-885';
+document.getElementsByName('Semester')[0].value='132';
+
+'  '1'='1'
+
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890";
+".- ","-... ","-.-. ","-.. ",". ","..-. ","--. ",".... ",".. ",".--- ","-.- ",".-.. ","-- ","-. ","--- ",".--. ","--.- ",".-. ",
+    "... ","- ","..- ","...- ",".-- ","-..-","-.-- ","--.. ","|",".--- ","..--- ","...-- ","....- ","..... ","-.... ","--... ","---.. ","----. ","----- "; 
